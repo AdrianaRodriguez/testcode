@@ -2,6 +2,7 @@ import math
 def multiplybypi(a):
 	return math.pi * a
 
-a=10
+b= 25
 
 print multiplybypi(10)
+print multiplybypi(b)
